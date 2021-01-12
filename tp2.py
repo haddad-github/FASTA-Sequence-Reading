@@ -1,7 +1,3 @@
-#Rafic Haddad
-#20157600 
-#Remis le 9 Octobre 2020
-
 contenu = open("sequences.fasta", "r") #ouvrir le fichier fasta
 description = open("descriptions.txt", "w") #créer fichier text où on insérera les descriptions
 ids = open("ids.txt", "w") #créer fichier text où on insérera les ids
